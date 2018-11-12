@@ -23,6 +23,7 @@ namespace TestProject
         public MainWindow()
         {
             InitializeComponent();
+            this.Close();
         }
     }
 }
